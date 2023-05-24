@@ -1,0 +1,14 @@
+[21:35:38]  >>>> >>>>>> Emitting button state as ON
+[21:35:38]  >>>>
+[21:35:38]  >>> Possibly it: 1072 > b0: 87 -> 85
+[21:35:38]  >>> Possibly it: 1072 > b4: 7f -> 0
+[21:35:38]  >>> Possibly it: 1072 > b6: 3e -> 24
+ -> 05:38]  >>> Possibly it: 1072 > b7: 90
+[21:35:39]  >>>>
+[21:35:39]  >>>> >>>>>> Emitting button state as OFF
+[21:35:39]  >>>>
+[21:35:39]  >>> Possibly it: 1072 > b0: 85 -> 87
+[21:35:39]  >>> Possibly it: 1072 > b4: 0 -> 7f
+[21:35:39]  >>> Possibly it: 1072 > b6: 24 -> 3e
+ -> 90:39]  >>> Possibly it: 1072 > b7: 0
+

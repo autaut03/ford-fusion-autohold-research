@@ -1,0 +1,30 @@
+[20:44:43]  >>>> >>>>>> Emitting button state as ON (AUTOHOLD from ON to OFF)
+[20:44:43]  >>>>
+[20:44:43]  >>>>
+[20:44:43]  >>> Possibly it: 765 > b0: 54 -> 10
+[20:44:43]  >>> Possibly it: 765 > b2: e3 -> 2
+[20:44:43]  >>> Possibly it: 765 > b4: 8 -> 0
+[20:44:43]  >>>>
+[20:44:43]  >>>> >>>>>> Emitting button state as OFF
+[20:44:43]  >>>>
+[20:44:43]  >>>>
+[20:44:46]  >>> Possibly it: 765 > b0: 10 -> 54
+[20:44:46]  >>> Possibly it: 765 > b2: 2 -> e3
+[20:44:46]  >>> Possibly it: 765 > b4: 0 -> 8
+[20:44:47]  >>>>
+[20:44:47]  >>>> >>>>>> Emitting button state as ON (AUTOHOLD from OFF to ON)
+[20:44:47]  >>>>
+[20:44:47]  >>>>
+[20:44:47]  >>> Possibly it: 765 > b0: 54 -> 50
+[20:44:47]  >>> Possibly it: 765 > b2: e3 -> 2
+[20:44:47]  >>> Possibly it: 765 > b4: 8 -> 0
+[20:44:48]  >>>>
+[20:44:48]  >>>> >>>>>> Emitting button state as OFF
+[20:44:48]  >>>>
+[20:44:48]  >>>>
+[20:44:49]  >>> Possibly it: 765 > b0: 50 -> 54
+[20:44:49]  >>> Possibly it: 765 > b2: 2 -> e3
+[20:44:49]  >>> Possibly it: 765 > b4: 0 -> 8
+[20:44:50]  >>> Possibly it: 765 > b0: 54 -> 50
+[20:44:50]  >>> Possibly it: 765 > b2: e3 -> 2
+[20:44:50]  >>> Possibly it: 765 > b4: 8 -> 0

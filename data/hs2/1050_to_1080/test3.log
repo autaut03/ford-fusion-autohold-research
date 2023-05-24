@@ -1,0 +1,36 @@
+[22:39:28]  >>> NOT it: 1054 > b2: 40 -> 0
+[22:39:36]  >>> NOT it: 1073 > b1: 1a -> 1b
+[22:39:36]  >>> NOT it: 1073 > b4: 8 -> 9
+[22:39:36]  >>> NOT it: 1073 > b5: 0 -> 80
+[22:39:57]  >>>>
+[22:39:57]  >>>> >>>>>> Emitting button state as ON
+[22:39:57]  >>>>
+[22:39:58]  >>>>
+[22:39:58]  >>>> >>>>>> Emitting button state as OFF
+[22:39:58]  >>>>
+[22:39:58]  >>> Possibly it: 1072 > b5: fe -> 0
+[22:39:58]  >>> Possibly it: 1072 > b5: 0 -> fe
+ -> 00:07]  >>> Possibly it: 1073 > b7: 2
+[22:40:15]  >>>>
+[22:40:15]  >>>> >>>>>> Emitting button state as ON
+[22:40:15]  >>>>
+ -> 20:16]  >>> Possibly it: 1073 > b7: 0
+[22:40:18]  >>>>
+[22:40:18]  >>>> >>>>>> Emitting button state as OFF
+[22:40:18]  >>>>
+[22:40:18]  >>> Possibly it: 1072 > b5: fe -> 0
+[22:40:18]  >>> Possibly it: 1072 > b5: 0 -> fe
+[22:40:19]  >>>>
+[22:40:19]  >>>> >>>>>> Emitting button state as ON
+[22:40:19]  >>>>
+ -> 60:19]  >>> Possibly it: 1073 > b7: 2
+ -> 20:19]  >>> Possibly it: 1073 > b7: 6
+[22:40:20]  >>> Possibly it: 1073 > b0: 5 -> 4
+[22:40:21]  >>> Possibly it: 1073 > b0: 4 -> 5
+[22:40:21]  >>>>
+[22:40:21]  >>>> >>>>>> Emitting button state as OFF
+[22:40:21]  >>>>
+[22:40:21]  >>> Possibly it: 1072 > b5: fe -> 0
+[22:40:21]  >>> Possibly it: 1072 > b5: 0 -> fe
+[22:40:21]  >>> Possibly it: 1054 > b0: 0 -> 1
+^C
